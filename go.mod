@@ -1,3 +1,3 @@
-module github.com/go-zookeeper/zk
+module github.com/harmonicinc-video/go-zookeeper
 
-go 1.13
+go 1.18
